@@ -1,5 +1,7 @@
 # Try different clustering methods
 
+## Instructions
+
 In this section you learned about K-Means clustering. Sometimes K-Means is not appropriate for your data. Create a notebook using data either from these sections or from somewhere else (credit your source) and show a different clustering method NOT using K-Means. What did you learn? 
 
 ## Rubric
